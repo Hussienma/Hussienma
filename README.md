@@ -1,6 +1,7 @@
 ### Hello
 
-I'm Hussien, currently a Computer science student and a web developer. I have knowledge in Javascript and its frameworks Nodejs and React
+I'm Hussien Mohamed, a junior software engineer and a web developer with 2+ years of experiance with MERN.
+Visit my <a href="https://hussienma.github.io/My-Portfolio/">website</a>
 
 ### A Project I have done recently
 
