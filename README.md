@@ -1,8 +1,8 @@
 ### Hello
 
-I'm Hussien Mohamed, a junior software engineer and a web developer with 2+ years of experiance with MERN.
+I'm Hussien Mohamed, a junior software engineer and a web developer with experiance in MERN/MEVN.
 Visit my <a href="https://hussienma.github.io/My-Portfolio/">website</a>
 
 ### A Project I have done recently
 
-<a href="https://messaging-app-by-hussienmahba.onrender.com/">Messaging App using Node and React</a>
+<a href="https://messaging-frontend.pages.dev/">Messaging App</a>
