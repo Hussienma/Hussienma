@@ -1,8 +1,1 @@
-### Hello
-
-I'm Hussien Mohamed, a junior software engineer and a web developer with experiance in MERN/MEVN.
-Visit my <a href="https://hussienma.github.io/My-Portfolio/">website</a>
-
-### A Project I have done recently
-
-<a href="https://messaging-frontend.pages.dev/">Messaging App</a>
+Hi, I’m Hussain, a Product Engineer based in Riyadh. I build reliable products with .NET, React, and TypeScript, with experience in payments, real-time platforms. I enjoy solving complex problems and turning ideas into useful software.
